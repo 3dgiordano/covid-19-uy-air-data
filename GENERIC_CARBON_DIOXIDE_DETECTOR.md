@@ -81,7 +81,7 @@ Lista del paquete: 1 * Unidad Principal; 1 * manual;1 * cable de carga
 
 Paquete de caja
 ```
-### Datos técnicos del Sensor
+### Datos técnicos del Sensor CO2 QC103
 
 **Measurement range:** 	400-5000ppm Expandable 0-6000 ppm
 
