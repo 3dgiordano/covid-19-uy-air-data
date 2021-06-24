@@ -140,6 +140,8 @@ Compras en extranjero con gestión de franquicia de aduana y costos de envío co
 Tener en cuenta gastos de envío y costos de aduana. También que se está realizando compra y negociación en país extranjero.
 Revisar la reputación del vendedor y ver las reviews de los usuarios antes de comprar.
 
+- **Amazon**, marca Langkou (USD 89.99) https://www.amazon.com/-/es/interior-detector-contaminaci%C3%B3n-temperatura-profesional/dp/B08Q7YMX9X/
+
 - **Alibaba** (2 piezas a USD 40.50 la unidad, USD 33 si son +500 piezas) https://www.alibaba.com/product-detail/LCD-Display-Air-quality-monitor-measure_1600205725408.html
 
 - **AliExpress** https://es.aliexpress.com/af/DM306C.html
