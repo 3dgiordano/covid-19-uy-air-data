@@ -84,39 +84,25 @@ Paquete de caja
 ```
 ### Datos técnicos del Sensor CO2 QC103
 
-**Measurement range:** 	400-5000ppm Expandable 0-6000 ppm
-
-**Accuracy:**	 +/-50ppm plus5%reading (1)(2).
-
-**Response time (t90):**	<120s
-
-**Warm-up time	<8s:** (output value).<120s(accurate output).
-
-**Measurement cycle:**	4s
-
-**Temperature dependence:**	± 5 ppm/C or 0.5% reading/
-
-**Operating voltage:**	4.5-5.5V
-
-**Output signal:**	UART, PWM, I2C (customized).
-
-**Communication level:**	3.3V
-
-**Average current:**	<30mA (5V)
-
-**Operating temperature:**	0 - 50 °C
-
-**Operating humidity:**	0 to 95%RH no condensation
-
-**Operating pressure:**	700~1100mbar
-
-**Store the temperature:**	-20.0 ~ 60.0 °C
-
-**Product size:**	33mm X 21mm X 11mm (without pins).
-
-**Life expectancy:**	10 years
-
-**Calibration cycle:**	No calibration required (turn on self-calibration in normal IAQ applications).
+| | |
+|-|-|
+|**Measurement range**| 	400-5000ppm Expandable 0-6000 ppm|
+|**Accuracy**|	 +/-50ppm plus5%reading (1)(2).|
+|**Response time (t90)**|	<120s|
+|**Warm-up time	<8s**| (output value).<120s(accurate output).|
+|**Measurement cycle**|	4s|
+|**Temperature dependence**|	± 5 ppm/C or 0.5% reading/|
+|**Operating voltage**|	4.5-5.5V|
+|**Output signal**|	UART, PWM, I2C (customized).|
+|**Communication level**|	3.3V|
+|**Average current**|	<30mA (5V)|
+|**Operating temperature**|	0 - 50 °C|
+|**Operating humidity**|	0 to 95%RH no condensation|
+|**Operating pressure**|	700~1100mbar|
+|**Store the temperature**|	-20.0 ~ 60.0 °C|
+|**Product size**|	33mm X 21mm X 11mm (without pins).|
+|**Life expectancy**|	10 years|
+|**Calibration cycle**|	No calibration required (turn on self-calibration in normal IAQ applications).|
 
 (1): Accuracy is measured at room temperature of 25degrees C and atmospheric pressure of 101.3kpa. To verify sensor uncertainty, add uncertainty (±2%) of the standard gas used for calibration.
 
