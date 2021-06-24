@@ -18,6 +18,7 @@ Desconocido, de origen Chino.
 
 ### Rango de Precio
 Low-Cost, suele encontrarse en un rango de precios entre los 60 a 90 dólares.
+En tiendas de distribuidores es posible conseguirlos a un precio mayorista entre 33 dóalres y 41 dólares.
 
 ### Descripción usualmente utilizada
 
@@ -125,6 +126,24 @@ Paquete de caja
 
 ## Tiendas
 Puede encontrarse en todo tipo de tiendas, es un producto de bajo costo que los importadores pueden comprar en grandes cantidades.
+
+#### Uruguay:
+
+Compras en extranjero con gestión de franquicia de aduana y costos de envío con soporte desde Uruguay.
+
+- **TiendaMia** Amazon https://tiendamia.com/search?amzs=DM306C
+
+- **TiendaMia** Walmart https://tiendamia.com/search?amzs=DM306C&vendor=ebay&vendor=wrt
+
+#### Internacional:
+
+Tener en cuenta gastos de envío y costos de aduana. También que se está realizando compra y negociación en país extranjero.
+Revisar la reputación del vendedor y ver las reviews de los usuarios antes de comprar.
+
+- **Alibaba** (2 piezas a USD 40.50 la unidad, USD 33 si son +500 piezas) https://www.alibaba.com/product-detail/LCD-Display-Air-quality-monitor-measure_1600205725408.html
+
+- **AliExpress** https://es.aliexpress.com/af/DM306C.html
+
 
 ### Recursos
 
